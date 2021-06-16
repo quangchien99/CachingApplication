@@ -1,6 +1,6 @@
 package com.example.cachingapplication.data
 
-data class Restauran(
+data class Restaurant(
     val name: String,
     val type: String,
     val logo: String,
